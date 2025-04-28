@@ -1,0 +1,5 @@
+Data Source : https://www.kaggle.com/datasets/charunisa/english-poems-dataset?resource=download
+Authors: This dataset has 2000 lines of poems approximately which was written by William Wordsworth and Robert Frost. These poets are renowned for their contribution to English literature.
+
+Data Source: https://github.com/martin-gorner/tensorflow-rnn-shakespeare/blob/master/shakespeare/sonnets.txt
+Author: This dataset has 2633 lines of sonnets approximately which was written by William Shakespeare, the most influential writer in the English language. His works, including 38 plays and 154 sonnets, explore timeless themes of love, loss, ambition, and revenge.  Shakespeare's impact on literature and language is immense, with his plays continuing to be studied and performed worldwide. 

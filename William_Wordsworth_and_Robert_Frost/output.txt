@@ -1,0 +1,85 @@
+Output for temperature 0.2:
+one spring
+when she was a girl on the fanch.
+there side make we gaint and blows of strang:
+a strength so her its gords who dood, from the star
+the there and beary the mingh sking,
+and beary the will,
+to sell with the starling every so make where is the skee make strees.
+
+who harse the grees of the star,
+and stall my like a preasu
+
+--------------------------------------------------
+
+Output for temperature 0.4:
+illage library-
+unfortunately all of only books.
+whowe streagule of her it garder for my here of the may,
+there is the starlits man from should some
+our streech.ing there in owner all where the will ye
+of sinns is the agring:
+who some on the minta slook hore to sun be.
+the woods in the mindant streams
+with the flower her stow the 
+
+--------------------------------------------------
+
+Output for temperature 0.6000000000000001:
+he was laid;
+and, when the grass was drow
+there i loveent about to stoong and blose.
+
+of ele of smook wook to sees my geed
+of comeling to the gray world be off meant
+we and will be, who e place of the gens
+of sonsiness deartall years.
+i sman how on the garner of then in downtions.
+and fan which my hand a pastowing:
+and some rang
+
+--------------------------------------------------
+
+Output for temperature 0.8:
+ the banks of this delightful stream
+wey some browniss of the many,
+she her things wooldnen streams
+when sun in for the loved on the straig
+of string of the his more cullf
+to land and beaden glow of to may fandere,
+and by there is for chook by herse alfthers.
+
+when sunge then we ray worth some with sone.
+i for mornows, of strengh
+
+--------------------------------------------------
+
+Output for temperature 1.0:
+ to me:
+“a thousand trees would come to the ming.
+
+choughts and may be renoch and bed.
+i wander far in onlysided, and bearing.
+
+i he beor to sender these was some ungair —
+now in one and beswness,
+intled now thoughts, and the straiguly bay
+of some for he withers down a cull we by grow.
+as leppernawe, some day not so but do tweep
+
+--------------------------------------------------
+
+Output for temperature 1.2:
+in celestial light,
+the glory and the fracted, of that way me
+the have seen and comencs so for its good,
+in wild no the mayes and solder
+with the starlich-re iffickings wathous.
+and again when they were dook, main,
+sun that strenguns my held may for the star,
+s for they frou how ofter years.
+
+whom to to his loar, she twith s[onk.
+
+--------------------------------------------------
+
